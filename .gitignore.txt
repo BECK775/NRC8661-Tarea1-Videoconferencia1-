@@ -1,0 +1,2 @@
+LuisRamon_estudiante.cpp.exe
+LuisRamon_estudiante.cpp.o
